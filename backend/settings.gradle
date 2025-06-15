@@ -1,0 +1,2 @@
+rootProject.name = 'pos-backend'
+include 'common', 'domain', 'service', 'api', 'application'
